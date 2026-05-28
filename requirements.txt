@@ -3,8 +3,8 @@ langchain
 langchain-core
 langchain-community
 langchain-mistralai
-python-dotenv
 mistralai
+python-dotenv
 openai
 requests
 pydantic
