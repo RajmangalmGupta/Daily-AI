@@ -20,3 +20,9 @@ jupyter
 ipykernel
 
 langchain-huggingface-hub
+
+streamlit
+langchain
+langchain-core
+langchain-mistralai
+python-dotenv
