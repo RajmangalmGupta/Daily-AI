@@ -1,11 +1,5 @@
 streamlit
-langchain
-langchain-core
-langchain-community
 langchain-mistralai
-mistralai
+langchain-core
 python-dotenv
-openai
-requests
-pydantic
-tiktoken
+mistralai
